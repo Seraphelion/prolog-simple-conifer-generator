@@ -1,6 +1,5 @@
-# About the prolog simple conifer generator
+# About :evergreen_tree:
 During on of my study courses we took a look at the <u>logical programming language</u> called **Prolog**. One of the tasks required us to make a program to generate a simple 2D conifer tree.  Since it was quite difficult to understand the language and to get started I decided to post the finished code here, so that it might help out somebody else. Also, not to get too humble, so that I might have one more project on my portfolio. :laughing: The code was made for and run in [SWISH](https://swish.swi-prolog.org/) environment accessible on *(https://swish.swi-prolog.org/)*.
-# :evergreen_tree:
 # Table of Contents
 - [Instructions](#instructions)
 - [Description](#Description)
